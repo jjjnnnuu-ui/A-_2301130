@@ -42,5 +42,10 @@ public class Main {
         System.out.println("배송 상태: " + delivery);
 
 
+
+
+
+
+
     }
 }
