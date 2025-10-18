@@ -15,7 +15,7 @@ public class Main {
         temp3 = (float)JAPAN/korea;
 
 
-        System.out.printf("대한민국의 면적 : %d \n",Korea);
+        System.out.printf("대한민국의 면적 : %d \n",korea);
         System.out.printf("북한의 면적 : %d \n",NORTHKOREA);
         System.out.printf("미국의 면적 : %d \n",USA);
         System.out.printf("일본의 면적 : %d \n",JAPAN);
